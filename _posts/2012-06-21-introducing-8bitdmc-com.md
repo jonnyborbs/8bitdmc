@@ -18,4 +18,4 @@ Because why not?
 
 P.S. – click this photo to blow it up to full size. Check out the face on the passenger in the Honda next to me 🙂
 
-[![](../images/2012/06/IMG_0172-300x225.jpg "8Bit on the highway in El Dorado Hills")](../images/2012/06/IMG_0172.jpg)
+[![](../assets/images/2012/06/IMG_0172-300x225.jpg "8Bit on the highway in El Dorado Hills")](../assets/images/2012/06/IMG_0172.jpg)

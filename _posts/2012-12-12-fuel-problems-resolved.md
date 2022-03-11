@@ -18,31 +18,31 @@ Ultimately hours of troubleshooting and ripping out the interior led to a 30 sec
 
 Now some photos… not a lot of this job since it was mostly stuff I had done before, but hey.
 
-[![](../images/2012/12/IMG_3650-300x225.jpg "IMG_3650")](../images/2012/12/IMG_3650.jpg)
+[![](../assets/images/2012/12/IMG_3650-300x225.jpg "IMG_3650")](../assets/images/2012/12/IMG_3650.jpg)
 
 New Jetronic computer loaned to me by a friend on the forum
 
-[![](../images/2012/12/IMG_3651-300x225.jpg "IMG_3651")](../images/2012/12/IMG_3651.jpg)
+[![](../assets/images/2012/12/IMG_3651-300x225.jpg "IMG_3651")](../assets/images/2012/12/IMG_3651.jpg)
 
 My computer (left) with the loaner on the right
 
-![](../images/2012/12/IMG_3655-300x225.jpg "IMG_3655")
+![](../assets/images/2012/12/IMG_3655-300x225.jpg "IMG_3655")
 
 Good old fashioned ’70s era analog electronics inside these units
 
-[![](../images/2012/12/IMG_3653-300x225.jpg "IMG_3653")](../images/2012/12/IMG_3653.jpg)
+[![](../assets/images/2012/12/IMG_3653-300x225.jpg "IMG_3653")](../assets/images/2012/12/IMG_3653.jpg)
 
 Jetronic computer’s home
 
-[![](../images/2012/12/IMG_3652-300x225.jpg "IMG_3652")](../images/2012/12/IMG_3652.jpg)
+[![](../assets/images/2012/12/IMG_3652-300x225.jpg "IMG_3652")](../assets/images/2012/12/IMG_3652.jpg)
 
 Existing computer removed
 
-[![](../images/2012/12/IMG_3654-300x225.jpg "IMG_3654")](../images/2012/12/IMG_3654.jpg)
+[![](../assets/images/2012/12/IMG_3654-300x225.jpg "IMG_3654")](../assets/images/2012/12/IMG_3654.jpg)
 
 Replacement (temporarily) installed
 
-[![](../images/2012/12/IMG_3656-300x225.jpg "IMG_3656")](../images/2012/12/IMG_3656.jpg)
+[![](../assets/images/2012/12/IMG_3656-300x225.jpg "IMG_3656")](../assets/images/2012/12/IMG_3656.jpg)
 
 The connector that ended up being the problem is the small white one in the foreground. The pin on the top had a marginal connection on the backside.
 

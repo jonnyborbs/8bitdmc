@@ -12,31 +12,31 @@ categories:
 
 An update to the window regulator situation. After determining that the motor in the drivers’ side door was beyond salvage, I ordered a new set from A1 Electric. They arrived in only two days!
 
-[![](../images/2012/12/IMG_3659-300x225.jpg "IMG_3659")](../images/2012/12/IMG_3659.jpg)
+[![](../assets/images/2012/12/IMG_3659-300x225.jpg "IMG_3659")](../assets/images/2012/12/IMG_3659.jpg)
 
 The old (white tube and broken) next to the new (blue tube)
 
-[![](../images/2012/12/DSCN4100-300x224.jpg "DSCN4100")](../images/2012/12/DSCN4100.jpg)
+[![](../assets/images/2012/12/DSCN4100-300x224.jpg "DSCN4100")](../assets/images/2012/12/DSCN4100.jpg)
 
 In order to cram the new setup into the door, the motor must separate from the regulator
 
-[![](../images/2012/12/DSCN4101-300x224.jpg "DSCN4101")](../images/2012/12/DSCN4101.jpg)
+[![](../assets/images/2012/12/DSCN4101-300x224.jpg "DSCN4101")](../assets/images/2012/12/DSCN4101.jpg)
 
 Motor and regulator inside the door and rejoined to each other
 
-[![](../images/2012/12/DSCN4102-300x224.jpg "DSCN4102")](../images/2012/12/DSCN4102.jpg)
+[![](../assets/images/2012/12/DSCN4102-300x224.jpg "DSCN4102")](../assets/images/2012/12/DSCN4102.jpg)
 
 Starting to secure the assembly
 
-[![](../images/2012/12/DSCN4103-300x224.jpg "DSCN4103")](../images/2012/12/DSCN4103.jpg)
+[![](../assets/images/2012/12/DSCN4103-300x224.jpg "DSCN4103")](../assets/images/2012/12/DSCN4103.jpg)
 
 Building the pigtail to plug the new motor into the harness
 
-[![](../images/2012/12/DSCN4105-300x224.jpg "DSCN4105")](../images/2012/12/DSCN4105.jpg)
+[![](../assets/images/2012/12/DSCN4105-300x224.jpg "DSCN4105")](../assets/images/2012/12/DSCN4105.jpg)
 
 Everything all connected up and working great!
 
-[![](../images/2012/12/DSCN4104-300x224.jpg "DSCN4104")](../images/2012/12/DSCN4104.jpg)
+[![](../assets/images/2012/12/DSCN4104-300x224.jpg "DSCN4104")](../assets/images/2012/12/DSCN4104.jpg)
 
 The trick to this whole job was to remove the seat (as I do with any interior work) to allow yourself plenty of room to work. Also, disassembling the motor/regulator to get it into the door was crucially important.
 

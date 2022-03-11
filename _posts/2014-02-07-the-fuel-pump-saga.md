@@ -16,9 +16,9 @@ Another owner on DMCTalk suggested that since the lower portion of the pump is s
 
 First I checked to see if the float for the sender was just caught somehow – maybe I’m actually out of fuel and just don’t know it? To do that, I held the float down with a rod and checked the gauge.
 
-[![IMG_2827](../images/2014/02/IMG_2827-300x224.jpg)](../images/2014/02/IMG_2827.jpg)
+[![IMG_2827](../assets/images/2014/02/IMG_2827-300x224.jpg)](../assets/images/2014/02/IMG_2827.jpg)
 
-[![IMG_2829](../images/2014/02/IMG_2829-300x225.jpg)](../images/2014/02/IMG_2829.jpg)
+[![IMG_2829](../assets/images/2014/02/IMG_2829-300x225.jpg)](../assets/images/2014/02/IMG_2829.jpg)
 
 Nope, no problem there….
 
@@ -32,23 +32,23 @@ Uh oh. That’s almost certainly not supposed to happen…. Taking a closer look
 
 To really analyze the part, I had no choice but to remove it from the car. After inspection, it didn’t seem that the unit was physically damaged or defective in any way, and the whole thing was as clean as could be:
 
-[![IMG_2831](../images/2014/02/IMG_2831-e1391772487505-225x300.jpg)](../images/2014/02/IMG_2831-e1391772487505.jpg)
+[![IMG_2831](../assets/images/2014/02/IMG_2831-e1391772487505-225x300.jpg)](../assets/images/2014/02/IMG_2831-e1391772487505.jpg)
 
-[![IMG_2833](../images/2014/02/IMG_2833-300x225.jpg)](../images/2014/02/IMG_2833.jpg)
+[![IMG_2833](../assets/images/2014/02/IMG_2833-300x225.jpg)](../assets/images/2014/02/IMG_2833.jpg)
 
-[![IMG_2832](../images/2014/02/IMG_2832-300x225.jpg)](../images/2014/02/IMG_2832.jpg)
+[![IMG_2832](../assets/images/2014/02/IMG_2832-300x225.jpg)](../assets/images/2014/02/IMG_2832.jpg)
 
 So what the hell? I called Dave at DMC Midwest and described my symptoms. Once he watched the videos above, he agreed that something was clearly not right and that he needed to get his hands on the pump for testing. So off it went to Crystal Lake. After a few days, he called me back – he couldn’t replicate what I was seeing, and there was nothing obviously wrong with the unit. But the videos and evidence I had were undeniable, and he generously replaced the whole pump for me.
 
 A week later…
 
-[![IMG_2884](../images/2014/02/IMG_2884-e1391772538343-225x300.jpg)](../images/2014/02/IMG_2884.jpg)
+[![IMG_2884](../assets/images/2014/02/IMG_2884-e1391772538343-225x300.jpg)](../assets/images/2014/02/IMG_2884.jpg)
 
-[![IMG_2882](../images/2014/02/IMG_2882-e1391772522419-225x300.jpg)](../images/2014/02/IMG_2882.jpg)
+[![IMG_2882](../assets/images/2014/02/IMG_2882-e1391772522419-225x300.jpg)](../assets/images/2014/02/IMG_2882.jpg)
 
 A brand new assembly arrived, complete with an inline check valve meant to eliminate the hot start problems that other owners like Ryan had observed. Great! I set about installing the new assembly and check valve – I messed the latter up, installing it in the return line rather than the feed line. Luckily I caught my mistake immediately and was able to swap the lines around to fix it.
 
-[![IMG_2886](../images/2014/02/IMG_2886-300x225.jpg)](../images/2014/02/IMG_2886.jpg)
+[![IMG_2886](../assets/images/2014/02/IMG_2886-300x225.jpg)](../assets/images/2014/02/IMG_2886.jpg)
 
 Here’s the check valve installed and ready to go.
 
@@ -62,11 +62,11 @@ After trading a dozen more emails and phone calls with DMCMW, Dave agreed that t
 
 The first thing we tried was inspecting the lines at the fuel distributor – any kinks or twists?
 
-[![IMG_2895](../images/2014/02/IMG_2895-300x225.jpg)](../images/2014/02/IMG_2895.jpg)
+[![IMG_2895](../assets/images/2014/02/IMG_2895-300x225.jpg)](../assets/images/2014/02/IMG_2895.jpg)
 
 Nope, looks good. Next test was to disconnect the feed line and run the pump into a bucket.
 
-[![IMG_2896](../images/2014/02/IMG_2896-300x225.jpg)](../images/2014/02/IMG_2896.jpg)
+[![IMG_2896](../assets/images/2014/02/IMG_2896-300x225.jpg)](../assets/images/2014/02/IMG_2896.jpg)
 
 Unhooked this line, and did this with it:
 
@@ -90,21 +90,21 @@ Dave was stumped, and so were we. The lines were all new. The filter was new. Pu
 
 About an hour later he called back with an idea – every fuel line was brand new, but did I do the ones no one ever thinks of? There are two short lengths of flexible line that connect the accumulator at the center of the frame to the sections of hard line running from end to end of the car. No – I had purchased replacement parts, but due to the difficulty of installing them, I hadn’t gotten to it yet. Dave suggested we inspect those lines for kinks or breaks. Here’s what we found:
 
-[![IMG_2907](../images/2014/02/IMG_2907-300x225.jpg)](../images/2014/02/IMG_2907.jpg)
+[![IMG_2907](../assets/images/2014/02/IMG_2907-300x225.jpg)](../assets/images/2014/02/IMG_2907.jpg)
 
-[![IMG_2910](../images/2014/02/IMG_2910-300x225.jpg)](../images/2014/02/IMG_2910.jpg)
+[![IMG_2910](../assets/images/2014/02/IMG_2910-300x225.jpg)](../assets/images/2014/02/IMG_2910.jpg)
 
 That almost certainly isn’t good. These old style fuel hoses are a three-layer design: a thin rubber outer sheath around a protective woven layer, covering a nylon (or Teflon) core line. The core section is stiff – and in this chunk of line, it had bent into a pretty severe kink and stuck that way. This was a serious “well, there’s your problem” moment for us.
 
 Cutting the line out, we could see the full extent of the kink:
 
-[![IMG_2911](../images/2014/02/IMG_2911-300x225.jpg)](../images/2014/02/IMG_2911.jpg)
+[![IMG_2911](../assets/images/2014/02/IMG_2911-300x225.jpg)](../assets/images/2014/02/IMG_2911.jpg)
 
 It makes total sense that this was allowing enough fuel to flow at idle, but starving the motor completely when the demand increased. So with Clint’s help (and power of super skinniness) the old line was cut out and a brand new one installed in only about 20 minutes. It was sheer luck that I had exactly the parts we needed sitting on the shelf. He also tightened up a shift pivot bolt that was a little loose – that tiny cubby in the frame is one place I couldn’t reach to do this kind of stuff myself.
 
 Excited that we might have finally solved it, I climbed into the trunk to take one last video…
 
-[![20140201_110514](../images/2014/02/20140201_110514-300x225.jpg)](../images/2014/02/20140201_110514.jpg)
+[![20140201_110514](../assets/images/2014/02/20140201_110514-300x225.jpg)](../assets/images/2014/02/20140201_110514.jpg)
 
 And here’s what we saw!
 
