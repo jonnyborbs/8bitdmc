@@ -16,19 +16,19 @@ The oil pan is a bit of a challenge on this car, since the row of bolts around t
 
 After draining the oil, we dropped the pan. It was immediately obvious that the cork gasket had suffered catastrophic and immediate failure. I can’t understand how anyone could use this part successfully – it’s complete garbage.
 
-[![DSCN4258](assets/images/2013/06/DSCN4258-300x224.jpg)](assets/images/2013/06/DSCN4258.jpg)
+[![DSCN4258](/assets/images/2013/06/DSCN4258-300x224.jpg)](/assets/images/2013/06/DSCN4258.jpg)
 
 As you can see, it warped, compressed and split pretty dramatically. This occurred at no more than the 11 ft/lb of torque that the shop manual prescribed. In fact, the warping became obvious at around 7 ft/lb.
 
 So, at nearly 5 times the price, we installed this gasket from DPI instead.
 
-[![DSCN4254](assets/images/2013/06/DSCN4254-300x224.jpg)](assets/images/2013/06/DSCN4254.jpg)
+[![DSCN4254](/assets/images/2013/06/DSCN4254-300x224.jpg)](/assets/images/2013/06/DSCN4254.jpg)
 
 Here’s David, utterly thrilled about the fancy new gasket. Clint is choking something back, but I’m not sure what…
 
-[![DSCN4255](assets/images/2013/06/DSCN4255-300x224.jpg)](assets/images/2013/06/DSCN4255.jpg)
+[![DSCN4255](/assets/images/2013/06/DSCN4255-300x224.jpg)](/assets/images/2013/06/DSCN4255.jpg)
 
-[![DSCN4257](assets/images/2013/06/DSCN4257-300x224.jpg)](assets/images/2013/06/DSCN4257.jpg)
+[![DSCN4257](/assets/images/2013/06/DSCN4257-300x224.jpg)](/assets/images/2013/06/DSCN4257.jpg)
 
 Applying High-Tack gasket sealant to both sides before reinstalling the pan. When I bought this stuff, I didn’t realize it also came in a spray can. That would have been much, much easier….
 
