@@ -27,19 +27,22 @@ You can see that the wires were barely hanging on, with many strands not even at
 
 As for my own car, there hasn’t been much to do lately! I took advantage of some free time this weekend to remove the windshield cowl and install some wire mesh over the fresh air intake opening. It’s a giant 12″x4″ cutout under the wiper blades with basically nothing to stop dirt, debris, leaves, etc from getting inside and collecting in the evaporator box. I cleaned the box last year and didn’t find much crud, but when I cleaned Clint’s it was like a compost heap inside. That was enough to motivate me to install this fix.
 
-Here’s the cowl, ready to remove:[  
-![DSCN4115](/assets/images/2013/02/DSCN4115-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4115.jpg)
+Here’s the cowl, ready to remove:
+[![DSCN4115](/assets/images/2013/02/DSCN4115-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4115.jpg)
 
 After removing it, there was plenty of crud to clean up.  
-![DSCN4119](/assets/images/2013/02/DSCN4119-300x224.jpg)
+[![DSCN4119](/assets/images/2013/02/DSCN4119-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4119.jpg)
 
 Some scrubbing bubbles made short work of all the filth  
 [![DSCN4121](/assets/images/2013/02/DSCN4121-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4121.jpg)
 
 Here’s what the huge opening looks like. No wonder stuff falls in there!  
-![DSCN4123](/assets/images/2013/02/DSCN4123-300x224.jpg)  
-[  ](/assets/images/2013/02/DSCN4121.jpg)A cheap ventilation screen from Lowes, with a rough pattern of the opening underneath it[  
-![DSCN4124](/assets/images/2013/02/DSCN4124-300x224.jpg)  ](/assets/images/2013/02/DSCN4124.jpg) [  ](/assets/images/2013/02/DSCN4125.jpg)After trimming the screen to fit, some RTV holds it in place[  
-![DSCN4125](/assets/images/2013/02/DSCN4125-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4125.jpg)
+[![DSCN4123](/assets/images/2013/02/DSCN4123-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4123.jpg)  
+
+A cheap ventilation screen from Lowes, with a rough pattern of the opening underneath it
+[![DSCN4124](/assets/images/2013/02/DSCN4124-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4124.jpg)
+
+After trimming the screen to fit, some RTV holds it in place  
+[![DSCN4125](/assets/images/2013/02/DSCN4125-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4125.jpg)
 
 With the cowling reinstalled, the fix is completely invisible. Worth 10 bucks and a couple hours’ time!
