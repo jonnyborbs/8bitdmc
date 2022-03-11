@@ -18,4 +18,4 @@ Anyway, counting the one a friend got me at another store I ended up with 4 of t
 
 Cool stuff!
 
-[![20121006-090747.jpg](https://www.8bitdmc.com/wp-content/uploads/2012/10/20121006-090747.jpg)](https://www.8bitdmc.com/wp-content/uploads/2012/10/20121006-090747.jpg)
+[![20121006-090747.jpg](https://jonnyborbs.github.io/assets/images/2012/10/20121006-090747.jpg)](https://jonnyborbs.github.io/assets/images/2012/10/20121006-090747.jpg)

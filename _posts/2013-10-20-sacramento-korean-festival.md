@@ -18,14 +18,14 @@ Thanks go to Ryan for inviting us along and to the festival organizers for being
 
 On to some pictures of the day. As you can see, we had a lot of fun.
 
-[![20131020-095045.jpg](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095045-300x300.jpg)](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095045.jpg)
+[![20131020-095045.jpg](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095045-300x300.jpg)](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095045.jpg)
 
-[![20131020-095038.jpg](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095038-300x300.jpg)](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095038.jpg)
+[![20131020-095038.jpg](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095038-300x300.jpg)](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095038.jpg)
 
-[![20131020-095030.jpg](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095030-300x300.jpg)](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095030.jpg)
+[![20131020-095030.jpg](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095030-300x300.jpg)](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095030.jpg)
 
-[![20131020-095022.jpg](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095022-300x300.jpg)](https://www.8bitdmc.com/wp-content/uploads/2013/10/20131020-095022.jpg)
+[![20131020-095022.jpg](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095022-300x300.jpg)](https://jonnyborbs.github.io/assets/images/2013/10/20131020-095022.jpg)
 
 Last but not least: we’re The Davids and we approve this message.
 
-[![Korean-DMCGuys](https://www.8bitdmc.com/wp-content/uploads/2013/10/Korean-DMCGuys-669x1024.jpg)](https://www.8bitdmc.com/wp-content/uploads/2013/10/Korean-DMCGuys.jpg)
+[![Korean-DMCGuys](https://jonnyborbs.github.io/assets/images/2013/10/Korean-DMCGuys-669x1024.jpg)](https://jonnyborbs.github.io/assets/images/2013/10/Korean-DMCGuys.jpg)

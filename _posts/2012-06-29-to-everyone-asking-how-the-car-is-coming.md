@@ -12,6 +12,6 @@ categories:
 
 Like this. It’s going more or less like this.
 
-[![20120629-160950.jpg](https://www.8bitdmc.com/wp-content/uploads/2012/06/20120629-160950.jpg)](https://www.8bitdmc.com/wp-content/uploads/2012/06/20120629-160950.jpg)
+[![20120629-160950.jpg](https://jonnyborbs.github.io/assets/images/2012/06/20120629-160950.jpg)](https://jonnyborbs.github.io/assets/images/2012/06/20120629-160950.jpg)
 
 Hey, at least it’s rebuilt and nice and clean. Also removed the old foam seal around the drivers side induction vent and replaced it with some square weatherstripping.

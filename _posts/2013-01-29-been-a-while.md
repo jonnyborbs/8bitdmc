@@ -16,4 +16,4 @@ This past weekend Clint and I met at David’s place in Lodi and stripped his en
 
 The only news relating to my car is that I finally got one of the NCDMC window stickers I’ve been coveting. David actually had a spare one that he gave me while we were there. A day well spent 🙂
 
-[![](https://www.8bitdmc.com/wp-content/uploads/2013/01/IMG_3700-300x225.jpg "IMG_3700")](https://www.8bitdmc.com/wp-content/uploads/2013/01/IMG_3700.jpg)
+[![](https://jonnyborbs.github.io/assets/images/2013/01/IMG_3700-300x225.jpg "IMG_3700")](https://jonnyborbs.github.io/assets/images/2013/01/IMG_3700.jpg)
