@@ -16,52 +16,52 @@ We started at home and met up with Clint and David at my office in Fairfield. Fr
 
 Here’s a map of the route we took (after meeting up in Mill Valley)
 
-[![](../../../assets/images2012/10/Marin2012Route.jpg "Marin2012Route")](../../../assets/images2012/10/Marin2012Route.jpg)
+[![](/assets/images2012/10/Marin2012Route.jpg "Marin2012Route")](/assets/images2012/10/Marin2012Route.jpg)
 
 Anyway, on to the photos!
 
-[![](../../../assets/images2012/10/IMG_3401-300x225.jpg "IMG_3401")](../../../assets/images2012/10/IMG_3401.jpg)
+[![](/assets/images2012/10/IMG_3401-300x225.jpg "IMG_3401")](/assets/images2012/10/IMG_3401.jpg)
 
-[![](../../../assets/images2012/10/IMG_3404-300x225.jpg "IMG_3404")](../../../assets/images2012/10/IMG_3404.jpg)
+[![](/assets/images2012/10/IMG_3404-300x225.jpg "IMG_3404")](/assets/images2012/10/IMG_3404.jpg)
 
-[![](../../../assets/images2012/10/IMG_3413-300x225.jpg "IMG_3413")](../../../assets/images2012/10/IMG_3413.jpg)
+[![](/assets/images2012/10/IMG_3413-300x225.jpg "IMG_3413")](/assets/images2012/10/IMG_3413.jpg)
 
-[![](../../../assets/images2012/10/IMG_3415-300x225.jpg "IMG_3415")](../../../assets/images2012/10/IMG_3415.jpg)
+[![](/assets/images2012/10/IMG_3415-300x225.jpg "IMG_3415")](/assets/images2012/10/IMG_3415.jpg)
 
-[![](../../../assets/images2012/10/IMG_3425-300x225.jpg "IMG_3425")](../../../assets/images2012/10/IMG_3425.jpg)
+[![](/assets/images2012/10/IMG_3425-300x225.jpg "IMG_3425")](/assets/images2012/10/IMG_3425.jpg)
 
-[![](../../../assets/images2012/10/IMG_3431new-225x300.jpg "IMG_3431new")](../../../assets/images2012/10/IMG_3431new.jpg)
+[![](/assets/images2012/10/IMG_3431new-225x300.jpg "IMG_3431new")](/assets/images2012/10/IMG_3431new.jpg)
 
-[![](../../../assets/images2012/10/IMG_3434-300x225.jpg "IMG_3434")](../../../assets/images2012/10/IMG_3434.jpg)
+[![](/assets/images2012/10/IMG_3434-300x225.jpg "IMG_3434")](/assets/images2012/10/IMG_3434.jpg)
 
-[![](../../../assets/images2012/10/IMG_3437-300x225.jpg "IMG_3437")](../../../assets/images2012/10/IMG_3437.jpg)
+[![](/assets/images2012/10/IMG_3437-300x225.jpg "IMG_3437")](/assets/images2012/10/IMG_3437.jpg)
 
-[![](../../../assets/images2012/10/IMG_3457-300x225.jpg "IMG_3457")](../../../assets/images2012/10/IMG_3457.jpg)
+[![](/assets/images2012/10/IMG_3457-300x225.jpg "IMG_3457")](/assets/images2012/10/IMG_3457.jpg)
 
-[![](../../../assets/images2012/10/IMG_3438-300x225.jpg "IMG_3438")](../../../assets/images2012/10/IMG_3438.jpg)
+[![](/assets/images2012/10/IMG_3438-300x225.jpg "IMG_3438")](/assets/images2012/10/IMG_3438.jpg)
 
-[![](../../../assets/images2012/10/IMG_3440-300x225.jpg "IMG_3440")](../../../assets/images2012/10/IMG_3440.jpg)
+[![](/assets/images2012/10/IMG_3440-300x225.jpg "IMG_3440")](/assets/images2012/10/IMG_3440.jpg)
 
-[![](../../../assets/images2012/10/IMG_3441-300x225.jpg "IMG_3441")](../../../assets/images2012/10/IMG_3441.jpg)
+[![](/assets/images2012/10/IMG_3441-300x225.jpg "IMG_3441")](/assets/images2012/10/IMG_3441.jpg)
 
-[![](../../../assets/images2012/10/IMG_3444-300x225.jpg "IMG_3444")](../../../assets/images2012/10/IMG_3444.jpg)
+[![](/assets/images2012/10/IMG_3444-300x225.jpg "IMG_3444")](/assets/images2012/10/IMG_3444.jpg)
 
-[![](../../../assets/images2012/10/IMG_3445-300x225.jpg "IMG_3445")](../../../assets/images2012/10/IMG_3445.jpg)
+[![](/assets/images2012/10/IMG_3445-300x225.jpg "IMG_3445")](/assets/images2012/10/IMG_3445.jpg)
 
-[![](../../../assets/images2012/10/IMG_3446-300x225.jpg "IMG_3446")](../../../assets/images2012/10/IMG_3446.jpg)
+[![](/assets/images2012/10/IMG_3446-300x225.jpg "IMG_3446")](/assets/images2012/10/IMG_3446.jpg)
 
-[![](../../../assets/images2012/10/IMG_3447-300x225.jpg "IMG_3447")](../../../assets/images2012/10/IMG_3447.jpg)
+[![](/assets/images2012/10/IMG_3447-300x225.jpg "IMG_3447")](/assets/images2012/10/IMG_3447.jpg)
 
-[![](../../../assets/images2012/10/IMG_3454-300x225.jpg "IMG_3454")](../../../assets/images2012/10/IMG_3454.jpg)
+[![](/assets/images2012/10/IMG_3454-300x225.jpg "IMG_3454")](/assets/images2012/10/IMG_3454.jpg)
 
-[![](../../../assets/images2012/10/IMG_2265-300x225.jpg "IMG_2265")](../../../assets/images2012/10/IMG_2265.jpg)
+[![](/assets/images2012/10/IMG_2265-300x225.jpg "IMG_2265")](/assets/images2012/10/IMG_2265.jpg)
 
-[![](../../../assets/images2012/10/IMG_3460-300x225.jpg "IMG_3460")](../../../assets/images2012/10/IMG_3460.jpg)
+[![](/assets/images2012/10/IMG_3460-300x225.jpg "IMG_3460")](/assets/images2012/10/IMG_3460.jpg)
 
-[![](../../../assets/images2012/10/IMG_3464-300x225.jpg "IMG_3464")](../../../assets/images2012/10/IMG_3464.jpg)
+[![](/assets/images2012/10/IMG_3464-300x225.jpg "IMG_3464")](/assets/images2012/10/IMG_3464.jpg)
 
-[![](../../../assets/images2012/10/IMG_3465-300x225.jpg "IMG_3465")](../../../assets/images2012/10/IMG_3465.jpg)
+[![](/assets/images2012/10/IMG_3465-300x225.jpg "IMG_3465")](/assets/images2012/10/IMG_3465.jpg)
 
-[![](../../../assets/images2012/10/IMG_3466-300x225.jpg "IMG_3466")](../../../assets/images2012/10/IMG_3466.jpg)
+[![](/assets/images2012/10/IMG_3466-300x225.jpg "IMG_3466")](/assets/images2012/10/IMG_3466.jpg)
 
-![](../../../assets/images2012/10/IMG_3474-300x225.jpg "IMG_3474")
+![](/assets/images2012/10/IMG_3474-300x225.jpg "IMG_3474")

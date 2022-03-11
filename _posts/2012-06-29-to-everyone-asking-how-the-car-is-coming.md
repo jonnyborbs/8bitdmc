@@ -12,6 +12,6 @@ categories:
 
 Like this. It’s going more or less like this.
 
-[![20120629-160950.jpg](../../../assets/images2012/06/20120629-160950.jpg)](../../../assets/images2012/06/20120629-160950.jpg)
+[![20120629-160950.jpg](/assets/images2012/06/20120629-160950.jpg)](/assets/images2012/06/20120629-160950.jpg)
 
 Hey, at least it’s rebuilt and nice and clean. Also removed the old foam seal around the drivers side induction vent and replaced it with some square weatherstripping.

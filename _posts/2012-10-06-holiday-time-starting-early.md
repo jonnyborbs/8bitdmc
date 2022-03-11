@@ -18,4 +18,4 @@ Anyway, counting the one a friend got me at another store I ended up with 4 of t
 
 Cool stuff!
 
-[![20121006-090747.jpg](../../../assets/images2012/10/20121006-090747.jpg)](../../../assets/images2012/10/20121006-090747.jpg)
+[![20121006-090747.jpg](/assets/images2012/10/20121006-090747.jpg)](/assets/images2012/10/20121006-090747.jpg)

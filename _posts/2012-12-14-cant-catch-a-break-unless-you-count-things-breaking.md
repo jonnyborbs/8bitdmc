@@ -20,10 +20,10 @@ The worst part is that the price for the regulators recently jumped a huge amoun
 
 Here’s a photo of what’s left of my original regulator – notice the cheap plastic elbow and worm gear guide. The elbow had snapped and the worm gear had coiled up at the bottom of the door as the window came down. The breaking plastic noise was a combination of the elbow snapping and the (also plastic) gears inside the mechanism coming apart. Fortunately the window itself, and more importantly the carrier are still just fine.
 
-[![](../../../assets/images2012/12/IMG_3657-300x225.jpg "IMG_3657")](../../../assets/images2012/12/IMG_3657.jpg)
+[![](/assets/images2012/12/IMG_3657-300x225.jpg "IMG_3657")](/assets/images2012/12/IMG_3657.jpg)
 
 And a shot of all the dismantled door and interior parts… yet again…
 
-[![](../../../assets/images2012/12/IMG_3658-300x225.jpg "IMG_3658")](../../../assets/images2012/12/IMG_3658.jpg)
+[![](/assets/images2012/12/IMG_3658-300x225.jpg "IMG_3658")](/assets/images2012/12/IMG_3658.jpg)
 
 More updates to come as the parts arrive…
