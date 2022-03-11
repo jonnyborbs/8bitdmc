@@ -16,24 +16,24 @@ Anyway, today I decided to remove the fuel tank closing plate and inspect it. It
 
 So, here’s what I found when I first removed the plate:
 
-[![IMG_3769](../assets/images/2014/07/IMG_3769-300x225.jpg)](../assets/images/2014/07/IMG_3769.jpg)
+[![IMG_3769](../../assets/images/2014/07/IMG_3769-300x225.jpg)](../../assets/images/2014/07/IMG_3769.jpg)
 
 As you can see, the epoxy in this corner is all bubbled up and detached from the metal. Water has gotten in underneath and started rusting the plate. The only way to deal with this is to strip off the damaged epoxy, grind away as much rust as possible and treat the plate with rust-inhibiting paint to match the frame.
 
 Step 1: I just peeled away the loose epoxy. It pulled off in huge chunks.
 
-[![IMG_3770](../assets/images/2014/07/IMG_3770-300x225.jpg)](../assets/images/2014/07/IMG_3770.jpg)
+[![IMG_3770](../../assets/images/2014/07/IMG_3770-300x225.jpg)](../../assets/images/2014/07/IMG_3770.jpg)
 
 Step 2: Scraping away the more stubborn chunks of damaged epoxy and brushing the surface rust with a wire brush
 
-[![IMG_3772](../assets/images/2014/07/IMG_3772-300x225.jpg)](../assets/images/2014/07/IMG_3772.jpg)
+[![IMG_3772](../../assets/images/2014/07/IMG_3772-300x225.jpg)](../../assets/images/2014/07/IMG_3772.jpg)
 
 Step 3: The remaining epoxy in the affected areas was a little better adhered, but still needed to be removed. A razor blade was used for this, followed by more wire brushing
 
-[![IMG_3776](../assets/images/2014/07/IMG_3776-300x225.jpg)](../assets/images/2014/07/IMG_3776.jpg)
+[![IMG_3776](../../assets/images/2014/07/IMG_3776-300x225.jpg)](../../assets/images/2014/07/IMG_3776.jpg)
 
 Finally, I went at the good epoxy with some degreaser to start cleaning the grime off.
 
-[![IMG_3777](../assets/images/2014/07/IMG_3777-e1406772588733-300x225.jpg)](../assets/images/2014/07/IMG_3777-e1406772588733.jpg)
+[![IMG_3777](../../assets/images/2014/07/IMG_3777-e1406772588733-300x225.jpg)](../../assets/images/2014/07/IMG_3777-e1406772588733.jpg)
 
 Looks a lot better. The next step will be to finish really prepping the surface with a wire wheel, followed by a primer, some POR-15, and a coat of Rustoleum to protect the POR-15 and match the rest of the plate. More on that to come!
