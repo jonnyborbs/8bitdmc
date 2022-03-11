@@ -16,18 +16,18 @@ With an upcoming club drive taking us down the coast, I decided there was no bet
 
 A few photos, of course..
 
-[![](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3386-300x225.jpg "IMG_3386")](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3386.jpg)
+[![](../images/2012/10/IMG_3386-300x225.jpg "IMG_3386")](../images/2012/10/IMG_3386.jpg)
 
 Old and new tire (new on the left, old still mounted)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3389-300x225.jpg "IMG_3389")](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3389.jpg)
+[![](../images/2012/10/IMG_3389-300x225.jpg "IMG_3389")](../images/2012/10/IMG_3389.jpg)
 
 Detail of the new spare
 
-[![](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3390-300x225.jpg "IMG_3390")](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3390.jpg)
+[![](../images/2012/10/IMG_3390-300x225.jpg "IMG_3390")](../images/2012/10/IMG_3390.jpg)
 
 Old spare – never been driven on and in cosmetically flawless shape. But too old to trust.
 
-[![](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3391-300x225.jpg "IMG_3391")](https://jonnyborbs.github.io/assets/images/2012/10/IMG_3391.jpg)
+[![](../images/2012/10/IMG_3391-300x225.jpg "IMG_3391")](../images/2012/10/IMG_3391.jpg)
 
 Closeup of the old spare

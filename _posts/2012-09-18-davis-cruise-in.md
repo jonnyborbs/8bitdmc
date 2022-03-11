@@ -18,12 +18,12 @@ The night ended with some guy offering to buy both our cars as we were getting r
 
 Now, on to the pictures!
 
-[![20120918-212211.jpg](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212211.jpg)](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212211.jpg)
+[![20120918-212211.jpg](../images/2012/09/20120918-212211.jpg)](../images/2012/09/20120918-212211.jpg)
 
-[![20120918-212222.jpg](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212222.jpg)](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212222.jpg)
+[![20120918-212222.jpg](../images/2012/09/20120918-212222.jpg)](../images/2012/09/20120918-212222.jpg)
 
-[![20120918-212158.jpg](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212158.jpg)](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212158.jpg)
+[![20120918-212158.jpg](../images/2012/09/20120918-212158.jpg)](../images/2012/09/20120918-212158.jpg)
 
-[![20120918-212231.jpg](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212231.jpg)](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212231.jpg)
+[![20120918-212231.jpg](../images/2012/09/20120918-212231.jpg)](../images/2012/09/20120918-212231.jpg)
 
-[![20120918-212237.jpg](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212237.jpg)](https://jonnyborbs.github.io/assets/images/2012/09/20120918-212237.jpg)
+[![20120918-212237.jpg](../images/2012/09/20120918-212237.jpg)](../images/2012/09/20120918-212237.jpg)

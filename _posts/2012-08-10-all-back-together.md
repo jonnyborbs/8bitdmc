@@ -30,9 +30,9 @@ What the hell, I think. It’s a busy night on the street and I doubt he’s goi
 
 “Hold on, I have something for you” and disappears inside the garage. 30 seconds later he comes out with these.
 
-[![](https://jonnyborbs.github.io/assets/images/2012/08/DSCN4057-300x224.jpg "DSCN4057")](https://jonnyborbs.github.io/assets/images/2012/08/DSCN4057.jpg)
+[![](../images/2012/08/DSCN4057-300x224.jpg "DSCN4057")](../images/2012/08/DSCN4057.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/08/DSCN4061-300x224.jpg "DSCN4061")](https://jonnyborbs.github.io/assets/images/2012/08/DSCN4061.jpg)
+[![](../images/2012/08/DSCN4061-300x224.jpg "DSCN4061")](../images/2012/08/DSCN4061.jpg)
 
 Original and complete 30+ year old service and parts manuals!
 

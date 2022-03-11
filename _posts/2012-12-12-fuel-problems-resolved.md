@@ -18,31 +18,31 @@ Ultimately hours of troubleshooting and ripping out the interior led to a 30 sec
 
 Now some photos… not a lot of this job since it was mostly stuff I had done before, but hey.
 
-[![](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3650-300x225.jpg "IMG_3650")](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3650.jpg)
+[![](../images/2012/12/IMG_3650-300x225.jpg "IMG_3650")](../images/2012/12/IMG_3650.jpg)
 
 New Jetronic computer loaned to me by a friend on the forum
 
-[![](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3651-300x225.jpg "IMG_3651")](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3651.jpg)
+[![](../images/2012/12/IMG_3651-300x225.jpg "IMG_3651")](../images/2012/12/IMG_3651.jpg)
 
 My computer (left) with the loaner on the right
 
-![](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3655-300x225.jpg "IMG_3655")
+![](../images/2012/12/IMG_3655-300x225.jpg "IMG_3655")
 
 Good old fashioned ’70s era analog electronics inside these units
 
-[![](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3653-300x225.jpg "IMG_3653")](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3653.jpg)
+[![](../images/2012/12/IMG_3653-300x225.jpg "IMG_3653")](../images/2012/12/IMG_3653.jpg)
 
 Jetronic computer’s home
 
-[![](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3652-300x225.jpg "IMG_3652")](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3652.jpg)
+[![](../images/2012/12/IMG_3652-300x225.jpg "IMG_3652")](../images/2012/12/IMG_3652.jpg)
 
 Existing computer removed
 
-[![](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3654-300x225.jpg "IMG_3654")](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3654.jpg)
+[![](../images/2012/12/IMG_3654-300x225.jpg "IMG_3654")](../images/2012/12/IMG_3654.jpg)
 
 Replacement (temporarily) installed
 
-[![](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3656-300x225.jpg "IMG_3656")](https://jonnyborbs.github.io/assets/images/2012/12/IMG_3656.jpg)
+[![](../images/2012/12/IMG_3656-300x225.jpg "IMG_3656")](../images/2012/12/IMG_3656.jpg)
 
 The connector that ended up being the problem is the small white one in the foreground. The pin on the top had a marginal connection on the backside.
 

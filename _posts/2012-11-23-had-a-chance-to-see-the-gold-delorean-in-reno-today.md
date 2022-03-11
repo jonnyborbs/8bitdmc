@@ -20,22 +20,22 @@ I did notice a drip pan under the motor. I’m guessing that means it isn’t as
 
 Anyway, on to the photos!
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3566-300x225.jpg "IMG_3566")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3566.jpg)
+[![](../images/2012/11/IMG_3566-300x225.jpg "IMG_3566")](../images/2012/11/IMG_3566.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3568-300x225.jpg "IMG_3568")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3568.jpg)
+[![](../images/2012/11/IMG_3568-300x225.jpg "IMG_3568")](../images/2012/11/IMG_3568.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3569-300x225.jpg "IMG_3569")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3569.jpg)
+[![](../images/2012/11/IMG_3569-300x225.jpg "IMG_3569")](../images/2012/11/IMG_3569.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3572-300x225.jpg "IMG_3572")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3572.jpg)
+[![](../images/2012/11/IMG_3572-300x225.jpg "IMG_3572")](../images/2012/11/IMG_3572.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3573-300x225.jpg "IMG_3573")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3573.jpg)
+[![](../images/2012/11/IMG_3573-300x225.jpg "IMG_3573")](../images/2012/11/IMG_3573.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3574-300x225.jpg "IMG_3574")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3574.jpg)
+[![](../images/2012/11/IMG_3574-300x225.jpg "IMG_3574")](../images/2012/11/IMG_3574.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3575-300x225.jpg "IMG_3575")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3575.jpg)
+[![](../images/2012/11/IMG_3575-300x225.jpg "IMG_3575")](../images/2012/11/IMG_3575.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3570-300x225.jpg "IMG_3570")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3570.jpg)
+[![](../images/2012/11/IMG_3570-300x225.jpg "IMG_3570")](../images/2012/11/IMG_3570.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3571-300x225.jpg "IMG_3571")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3571.jpg)
+[![](../images/2012/11/IMG_3571-300x225.jpg "IMG_3571")](../images/2012/11/IMG_3571.jpg)
 
-[![](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3644-300x225.jpg "IMG_3644")](https://jonnyborbs.github.io/assets/images/2012/11/IMG_3644.jpg)
+[![](../images/2012/11/IMG_3644-300x225.jpg "IMG_3644")](../images/2012/11/IMG_3644.jpg)
