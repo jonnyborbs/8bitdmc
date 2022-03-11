@@ -20,22 +20,22 @@ I did notice a drip pan under the motor. I’m guessing that means it isn’t as
 
 Anyway, on to the photos!
 
-[![](../../assets/images/2012/11/IMG_3566-300x225.jpg "IMG_3566")](../../assets/images/2012/11/IMG_3566.jpg)
+[![](../../../assets/images2012/11/IMG_3566-300x225.jpg "IMG_3566")](../../../assets/images2012/11/IMG_3566.jpg)
 
-[![](../../assets/images/2012/11/IMG_3568-300x225.jpg "IMG_3568")](../../assets/images/2012/11/IMG_3568.jpg)
+[![](../../../assets/images2012/11/IMG_3568-300x225.jpg "IMG_3568")](../../../assets/images2012/11/IMG_3568.jpg)
 
-[![](../../assets/images/2012/11/IMG_3569-300x225.jpg "IMG_3569")](../../assets/images/2012/11/IMG_3569.jpg)
+[![](../../../assets/images2012/11/IMG_3569-300x225.jpg "IMG_3569")](../../../assets/images2012/11/IMG_3569.jpg)
 
-[![](../../assets/images/2012/11/IMG_3572-300x225.jpg "IMG_3572")](../../assets/images/2012/11/IMG_3572.jpg)
+[![](../../../assets/images2012/11/IMG_3572-300x225.jpg "IMG_3572")](../../../assets/images2012/11/IMG_3572.jpg)
 
-[![](../../assets/images/2012/11/IMG_3573-300x225.jpg "IMG_3573")](../../assets/images/2012/11/IMG_3573.jpg)
+[![](../../../assets/images2012/11/IMG_3573-300x225.jpg "IMG_3573")](../../../assets/images2012/11/IMG_3573.jpg)
 
-[![](../../assets/images/2012/11/IMG_3574-300x225.jpg "IMG_3574")](../../assets/images/2012/11/IMG_3574.jpg)
+[![](../../../assets/images2012/11/IMG_3574-300x225.jpg "IMG_3574")](../../../assets/images2012/11/IMG_3574.jpg)
 
-[![](../../assets/images/2012/11/IMG_3575-300x225.jpg "IMG_3575")](../../assets/images/2012/11/IMG_3575.jpg)
+[![](../../../assets/images2012/11/IMG_3575-300x225.jpg "IMG_3575")](../../../assets/images2012/11/IMG_3575.jpg)
 
-[![](../../assets/images/2012/11/IMG_3570-300x225.jpg "IMG_3570")](../../assets/images/2012/11/IMG_3570.jpg)
+[![](../../../assets/images2012/11/IMG_3570-300x225.jpg "IMG_3570")](../../../assets/images2012/11/IMG_3570.jpg)
 
-[![](../../assets/images/2012/11/IMG_3571-300x225.jpg "IMG_3571")](../../assets/images/2012/11/IMG_3571.jpg)
+[![](../../../assets/images2012/11/IMG_3571-300x225.jpg "IMG_3571")](../../../assets/images2012/11/IMG_3571.jpg)
 
-[![](../../assets/images/2012/11/IMG_3644-300x225.jpg "IMG_3644")](../../assets/images/2012/11/IMG_3644.jpg)
+[![](../../../assets/images2012/11/IMG_3644-300x225.jpg "IMG_3644")](../../../assets/images2012/11/IMG_3644.jpg)
