@@ -12,4 +12,4 @@ categories:
 
 Taken a few weeks ago on First street in Benicia. Wish I’d had a real camera instead of just my phone!
 
-[![20120626-220302.jpg](/assets/images/2012/06/20120626-220302.jpg)](/assets/images/2012/06/20120626-220302.jpg)
+[![20120626-220302.jpg](/assets/images/2012/06/20120626-220302.jpg)](/8bitdmc/assets/images/2012/06/20120626-220302.jpg)
