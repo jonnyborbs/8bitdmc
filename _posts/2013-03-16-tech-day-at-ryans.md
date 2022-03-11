@@ -12,6 +12,6 @@ categories:
 
 Just a quick post about a recent tech day at new owner Ryan’s place in Elk Grove. We helped him adjust his torsion bars and bolt down his roof box before enjoying some killer ribs and a visit from a neighborhood tortoise.
 
-[![IMG_3789](_site/8bitdmc/assets/images/2013/04/IMG_3789-300x225.jpg)](_site/8bitdmc/assets/images/2013/04/IMG_3789.jpg)
+[![IMG_3789](assets/images/2013/04/IMG_3789-300x225.jpg)](assets/images/2013/04/IMG_3789.jpg)
 
 Welcome to the club, Ryan! It was great to get to know you a little better. Hopefully next time you’ll have that Lotus back to show off 🙂
