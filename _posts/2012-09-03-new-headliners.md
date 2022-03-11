@@ -16,19 +16,19 @@ Anyway, our plan for the day was to go to Pick-n-pull after doing the headliners
 
 Some pics of the headliners and fancy new dome light…
 
-[![](/assets/images2012/09/DSCN4080-300x224.jpg "DSCN4080")](/assets/images2012/09/DSCN4080.jpg)
+[![](/assets/images/2012/09/DSCN4080-300x224.jpg "DSCN4080")](/assets/images/2012/09/DSCN4080.jpg)
 
 Wrapping the fabric up over the roofline and gluing it into place, then reinstalling the door seals. Plastic all over the interior to protect from glue overspray.
 
-[![](/assets/images2012/09/DSCN4082-300x224.jpg "DSCN4082")](/assets/images2012/09/DSCN4082.jpg)
+[![](/assets/images/2012/09/DSCN4082-300x224.jpg "DSCN4082")](/assets/images/2012/09/DSCN4082.jpg)
 
 Here you can see the detail of the recesses in the headliner boards, which I didn’t realize were there with my old sagging fabric. Perfect lines around the roof and seals, and a perfect color match to the slightly faded (and all but irreplaceable) sunvisors. You can also see my fancy new dome light. Clint in the background, nonchalantly taking a phone call like a badass.
 
-[![](/assets/images2012/09/DSCN4084-300x224.jpg "DSCN4084")](/assets/images2012/09/DSCN4084.jpg)
+[![](/assets/images/2012/09/DSCN4084-300x224.jpg "DSCN4084")](/assets/images/2012/09/DSCN4084.jpg)
 
 Some more detail on the rear board. I epoxied an aluminum bar to the underside of this one, which we wrapped the fabric over. This gives the rear end of it (closest to the window) a lot more strength and it is straight as an arrow now, instead of sagging in the middle.
 
-[![](/assets/images2012/09/DSCN4087-300x224.jpg "DSCN4087")](/assets/images2012/09/DSCN4087.jpg)
+[![](/assets/images/2012/09/DSCN4087-300x224.jpg "DSCN4087")](/assets/images/2012/09/DSCN4087.jpg)
 
 Some more detail on the forward board. You can also see the driver’s side door board, newly covered as well.
 
