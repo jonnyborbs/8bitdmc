@@ -7,7 +7,7 @@ layout: post
 guid: 'http://www.8bitdmc.com/?p=201'
 permalink: /2012/11/fuel-problems/
 categories:
-    - Uncategorized
+     - 'General Thoughts'
 ---
 
 Earlier in the month, I made particular note of how well the car was running. I was amazed by how much more power it was making in cold weather than in the 110 degree summer heat.
