@@ -12,4 +12,4 @@ categories:
 
 Because I love the way the car looks just before dawn. The steel reflects just right, and the plethora of lights (20 of them, with both doors open) blazing just makes for a really good looking shot.
 
-[![20121030-092920.jpg](/assets/images/2012/10/20121030-092920.jpg)](/assets/images/2012/10/20121030-092920.jpg)
+[![20121030-092920.jpg](_site/8bitdmc/assets/images/2012/10/20121030-092920.jpg)](_site/8bitdmc/assets/images/2012/10/20121030-092920.jpg)
