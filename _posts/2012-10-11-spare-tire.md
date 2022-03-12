@@ -16,18 +16,18 @@ With an upcoming club drive taking us down the coast, I decided there was no bet
 
 A few photos, of course..
 
-[![](/assets/images/2012/10/IMG_3386-300x225.jpg "IMG_3386")](/8bitdmc/assets/images/2012/10/IMG_3386.jpg)
+[![](/assets/images/2012/10/IMG_3386-300x225.jpg "IMG_3386")](/assets/images/2012/10/IMG_3386.jpg)
 
 Old and new tire (new on the left, old still mounted)
 
-[![](/assets/images/2012/10/IMG_3389-300x225.jpg "IMG_3389")](/8bitdmc/assets/images/2012/10/IMG_3389.jpg)
+[![](/assets/images/2012/10/IMG_3389-300x225.jpg "IMG_3389")](/assets/images/2012/10/IMG_3389.jpg)
 
 Detail of the new spare
 
-[![](/assets/images/2012/10/IMG_3390-300x225.jpg "IMG_3390")](/8bitdmc/assets/images/2012/10/IMG_3390.jpg)
+[![](/assets/images/2012/10/IMG_3390-300x225.jpg "IMG_3390")](/assets/images/2012/10/IMG_3390.jpg)
 
 Old spare – never been driven on and in cosmetically flawless shape. But too old to trust.
 
-[![](/assets/images/2012/10/IMG_3391-300x225.jpg "IMG_3391")](/8bitdmc/assets/images/2012/10/IMG_3391.jpg)
+[![](/assets/images/2012/10/IMG_3391-300x225.jpg "IMG_3391")](/assets/images/2012/10/IMG_3391.jpg)
 
 Closeup of the old spare

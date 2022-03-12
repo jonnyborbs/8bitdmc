@@ -14,7 +14,7 @@ So the NCDMC guys had another get-together at Stephen’s place this past weeken
 
 What we weren’t prepared for, though…
 
-[![DSCN4109](/assets/images/2013/02/DSCN4109-300x224.jpg)](/8bitdmc/assets/images/2013/02/DSCN4109.jpg)
+[![DSCN4109](/assets/images/2013/02/DSCN4109-300x224.jpg)](/assets/images/2013/02/DSCN4109.jpg)
 
 A whole colony of snails had taken up residence in his valley. I can’t even fathom how they would have gotten there – they would have had to climb up from the ground, over the wheels and through the cradle to the motor. Where they got well and truly cooked. We all had a good laugh – “my car may not be as pretty as yours, but at least my engine wasn’t full of SNAILS!”
 
@@ -26,14 +26,14 @@ This weekend I’ll be at Clint’s place working on his electrical system – w
 
 As for my own car, Clint put a new outer door seal on the driver’s side for me and I started mounting my new stainless side sill letters!
 
-[![IMG_3710](/assets/images/2013/02/IMG_3710-300x225.jpg)](/8bitdmc/assets/images/2013/02/IMG_3710.jpg)  
+[![IMG_3710](/assets/images/2013/02/IMG_3710-300x225.jpg)](/assets/images/2013/02/IMG_3710.jpg)  
 Side sill in original condition
 
-[![IMG_3709](/assets/images/2013/02/IMG_3709-300x225.jpg)](/8bitdmc/assets/images/2013/02/IMG_3709.jpg)  
+[![IMG_3709](/assets/images/2013/02/IMG_3709-300x225.jpg)](/assets/images/2013/02/IMG_3709.jpg)  
 Stainless letters imported from the UK
 
-[![IMG_3714](/assets/images/2013/02/IMG_3714-300x225.jpg)](/8bitdmc/assets/images/2013/02/IMG_3714.jpg)  
+[![IMG_3714](/assets/images/2013/02/IMG_3714-300x225.jpg)](/assets/images/2013/02/IMG_3714.jpg)  
 Mounted up!
 
-[![IMG_3715](/assets/images/2013/02/IMG_3715-300x225.jpg)](/8bitdmc/assets/images/2013/02/IMG_3715.jpg)  
+[![IMG_3715](/assets/images/2013/02/IMG_3715-300x225.jpg)](/assets/images/2013/02/IMG_3715.jpg)  
 Adds some much needed pop to the sills. I think I like the negative overlay ones like Dave has better, but these are cool too 🙂

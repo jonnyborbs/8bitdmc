@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[![a sepia toned photo of 8bit, the 1981 delorean car](/assets/images/about-8bit.jpg)](/8bitdmc/assets/images/about-8bit.jpg)
+[![a sepia toned photo of 8bit, the 1981 delorean car](/assets/images/about-8bit.jpg)](/assets/images/about-8bit.jpg)
 
 8Bit is a 1981 DeLorean DMC-12. She was built in June of 1981, theoretically the first car off the line in Dunmurry, Ireland that month.
 
