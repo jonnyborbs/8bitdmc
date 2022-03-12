@@ -4,7 +4,6 @@ title: 'Major Suspension Overhaul'
 date: '2017-06-20T19:14:43-07:00'
 author: admin
 layout: post
-image: /assets/images/2017/06/IMG_2188-1024x768.jpg
 guid: 'http://www.8bitdmc.com/?p=609'
 permalink: /2017/06/major-suspension-overhaul/
 categories:
