@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/12/fuel-problems-resolved/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, fuel, photo]
 ---
 
 So after troubleshooting on my own for days – including tearing the whole top half of the motor off – Clint finally came over with his car and we compared some test results. Hours of testing, retesting and comparing had us so frustrated. The computer was working. The frequency valve checked out OK (moved it to Clint’s car as a test.) There was voltage on the harness and a correct dwell reading. What could be going on?

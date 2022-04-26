@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/11/had-a-chance-to-see-the-gold-delorean-in-reno-today/
 categories:
     - 'General Thoughts'
+tags: [events, photo]
 ---
 
 We were in town for Thanksgiving with some friends and stopped off at the National Automobile Museum on the way home. They have one of the two gold-plated DeLoreans built for the American Express holiday catalog. I’ve seen pictures before, but have never seen one in person. It was really pretty cool, if a bit (ok, a lot) gaudy.

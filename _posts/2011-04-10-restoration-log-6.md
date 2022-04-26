@@ -7,6 +7,7 @@ permalink: /2011/04/restoration-log-6/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical]
 ---
 
 A few more minor accomplishments and new issues to list out.

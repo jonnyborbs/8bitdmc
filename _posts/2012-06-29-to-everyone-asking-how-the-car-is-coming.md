@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/06/to-everyone-asking-how-the-car-is-coming/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, photo]
 ---
 
 Like this. It’s going more or less like this.

@@ -5,7 +5,7 @@ layout: post
 permalink: /2022/04/uc-davis-picnic-day-2022/
 categories:
     - 'General Thoughts'
-tags: [events, parade, drive, club, ncdmc]
+tags: [events, parade, drives, club, ncdmc, picnicday, photo]
 ---
 
 This past weekend (April 22) was the 108th UC Davis Picnic Day! This is a super fun event that the university puts on every year, giving the students, faculty, staff, and local community a chance to come together and have some really great times. It's one of the highlights of the year in Davis, and a really fun tradition.

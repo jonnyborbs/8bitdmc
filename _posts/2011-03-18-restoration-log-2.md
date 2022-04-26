@@ -7,6 +7,7 @@ permalink: /2011/03/restoration-log-2/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair]
 ---
 
 Another day of DeLorean repair. Today’s work involved re-threading the battery strap and rebuilding the driver’s side inner rear CV joint.

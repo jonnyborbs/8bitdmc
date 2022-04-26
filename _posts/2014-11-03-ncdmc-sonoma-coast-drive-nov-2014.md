@@ -6,6 +6,7 @@ layout: post
 permalink: /2014/11/ncdmc-sonoma-coast-drive-nov-2014/
 categories:
     - 'General Thoughts'
+tags: [events, ncdmc, drives, photo]
 ---
 
 Another awesome excursion with the club guys. This time around it was myself and Kate, Rich and Kathy, David and Heather and Brian and Kaylee. Let’s start out with the route for what turned out to be the best drive we’ve taken yet.

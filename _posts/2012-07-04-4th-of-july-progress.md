@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/07/4th-of-july-progress/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, body, photo]
 ---
 
 Making some progress today. Still don’t have my clutch parts yet so my weekend schedule is coming into question, but I was able to start getting the rear quarter panel reinstalled.

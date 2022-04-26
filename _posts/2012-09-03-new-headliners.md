@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/09/new-headliners/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, body, photo]
 ---
 
 After spending Saturday morning installing the passenger side door strut bracket, Clint came by yesterday and helped me install my new headliners. They went in nice and easy and look fantastic installed. I broke my front dome light trying to reinstall it though – the new fabric is much thicker than the original stuff was, which made it a tighter fit. The plastic frame on the DeLorean dome lights isn’t particularly robust as it is. I actually have a metal-frame light from a Porsche 928 in the rear. Same size, function and wiring configuration but much stronger.

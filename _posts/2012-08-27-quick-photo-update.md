@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/08/quick-photo-update/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, electrical, body, photo]
 ---
 
 Just a couple quick photos.

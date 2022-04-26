@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/11/fuel-problems/
 categories:
      - 'General Thoughts'
+tags: [restoration, repair, fuel]
 ---
 
 Earlier in the month, I made particular note of how well the car was running. I was amazed by how much more power it was making in cold weather than in the 110 degree summer heat.

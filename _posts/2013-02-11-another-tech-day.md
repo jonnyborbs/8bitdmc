@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/02/another-tech-day/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, events, photo, ncdmc]
 ---
 
 So the NCDMC guys had another get-together at Stephen’s place this past weekend. The main goal was to help him tear his motor down for its first VOD job in 13 years. Given how pristine his car is everywhere else, we went in with really high hopes for a smooth and easy job. And we weren’t disappointed – everything came apart very easy, with no broken bolts or difficulty at all.

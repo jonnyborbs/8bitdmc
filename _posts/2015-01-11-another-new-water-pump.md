@@ -6,6 +6,7 @@ layout: post
 permalink: /2015/01/another-new-water-pump/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, cooling, engine, photo]
 ---
 
 So this was a surprise but not entirely unexpected job. Last weekend, after coming home from our holiday trip I noticed a small drip of coolant under the car. This isn’t at all unusual when it starts to get cold outside – there are dozens of hose to pipe connections under the car, and they will develop small drips from time to time with drastic temperature changes. So I pulled out my pressure tester, prepared to seek out and snug up any of these small drips as I do every year.

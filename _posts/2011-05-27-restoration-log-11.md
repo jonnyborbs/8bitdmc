@@ -7,6 +7,7 @@ permalink: /2011/05/restoration-log-11/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical, cooling]
 ---
 
 Another round of updates to the car. On a whim, I decided to investigate why the washer fluid didn’t spray. The bottle was intact, the hoses were fine, the switch worked and there was power at the harness… turned out the motor had rusted into a solid block. A new motor fixed the issue, and I boiled out the mold in the washer fluid bottle while I was at it.

@@ -7,6 +7,7 @@ permalink: /2011/05/restoration-log-10/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, window, hvac, ac]
 ---
 
 Big successes lately. After the travesty with the window dropping off the tracks, I regrouped and got everything back together. I even got up the nerve to replace all the rest of the door seals – inner, outer and lower on both sides. That went really well, except the inner driver’s side seal. I put the new one on and the door wouldn’t close anymore! It seems it’s a touch misaligned. That’s sad, because it closes so well – one more little nuance of these hand-made fiberglass body shells is that the tolerances were way less than perfect. I put the old seal back on, which was compressed and a little torn in one corner at the roofline, which allows the door to close properly. The tear isn’t going to be a problem now thanks to the new outer seals.

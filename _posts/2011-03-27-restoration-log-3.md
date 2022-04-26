@@ -7,6 +7,7 @@ permalink: /2011/03/restoration-log-3/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair]
 ---
 
 Today’s progress:

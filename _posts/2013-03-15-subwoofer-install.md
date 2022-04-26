@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/03/subwoofer-install/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, audio, body, electrical]
 ---
 
 Ever since I put the new stereo system in the car, I’ve been longing for a subwoofer. I got top grade speakers in all 4 corners, but because of the sizes (3.5″ round up front and 6×9″ in the rear) they have always lacked bass. I had to enable a high pass filter on them just to stop all the distortion, which means the overall audio quality was definitely lacking.

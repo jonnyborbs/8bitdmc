@@ -7,6 +7,7 @@ permalink: /2012/04/restoration-log-20/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, body, audio, suspension, electrical, cooling]
 ---
 
 I haven’t updated in a while, and I’ve done such a huge amount – so this post will have to be more bullet points than literary discourse.

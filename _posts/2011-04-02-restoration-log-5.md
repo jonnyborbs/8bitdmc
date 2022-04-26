@@ -7,6 +7,7 @@ permalink: /2011/04/restoration-log-5/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair]
 ---
 
 Another lengthy day of busted knuckles. today’s list of accomplishments includes:

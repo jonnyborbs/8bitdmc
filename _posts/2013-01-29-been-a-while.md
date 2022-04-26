@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/01/been-a-while/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, brakes, photo]
 ---
 
 As the title says, it’s been quite some time since my last post. That’s because things have been humming along perfectly! I’ve been driving the car at every chance – around town, to work, to tech days with the guys, etc.

@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/03/muffler-coating/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, exhaust, photo, ncdmc]
 ---
 
 So a bunch of the local owners got together and had our mufflers ceramic coated at a local shop in Sacramento. Shameless plug for this place since they did a really great job and turned the parts around fast – <https://www.powdercoat-it.com/>

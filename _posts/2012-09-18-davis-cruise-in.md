@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/09/davis-cruise-in/
 categories:
     - 'General Thoughts'
+tags: [events, photo]
 ---
 
 Tonight was another Davis cruise-in. I haven’t been to one since last year but should really go more often – they are free, and very laid back. Not too huge a spectator crowd tonight, but a decent car turnout. A few dumb questions, a few cute kids, a couple good looking girls (college town, after all… Oh, and Colleen too) and the usual owner crowd.

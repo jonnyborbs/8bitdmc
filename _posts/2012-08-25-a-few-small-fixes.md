@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/08/a-few-small-fixes/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, engine, electrical, photo, video]
 ---
 
 Just a quick update. Over the last week I’ve been tracking down a cold start issue with the engine. It was taking lots and lots of cranking to get it started when it was completely cold and/or it had sat for a few days. After pulling the cold start valve and putting it in a glass jar, I confirmed that it was not spraying fuel. The function of this valve is to supply a metered spray of gas directly into the intake manifold during cranking to allow the car to start easier. There is a temperature-sensitive switch in the thermostat housing that governs the function of the injector. After days and days of troubleshooting I determined that this switch was bad. Replacing it was a 10 minute job and now the motor turns over quickly and easily again.

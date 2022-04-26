@@ -6,6 +6,7 @@ layout: post
 permalink: /2015/01/time-for-an-alignment/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, suspension, alignment, photo]
 ---
 
 Long ago, nearly two years before I started this blog, #2100 got a new steering rack. This was due to the incredible steering difficulty that came from a completely seized intermediate shaft as well as the fact that it wasn’t tracking straight. No big deal, it was a relatively simple job for an afternoon.

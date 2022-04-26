@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/04/pacific-coast-highway-drive-2013/
 categories:
     - 'General Thoughts'
+tags: [events, ncdmc, drives, photo]
 ---
 
 This is a big one! Over the past weekend a bunch of owners took a long (the longest ever for many of us) trip way up the PCH (CA Route 1), making it as far as Ft. Bragg before coming back down. Here’s a map of the route:

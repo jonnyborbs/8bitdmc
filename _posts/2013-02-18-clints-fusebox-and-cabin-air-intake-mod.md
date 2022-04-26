@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/02/clints-fusebox-and-cabin-air-intake-mod/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, electrical, body]
 ---
 
 2 small updates for this week. On Saturday I stopped by Clint’s place and installed the new fusebox I got for him. His car’s electrical system has always been a little weird, and while everything was more or less working it had that air of ‘could be better’ about it. Plus, a lot of his fuses were visibly melted and overrated. Plus he has a weird stumbling in his fuel system that we haven’t been able to track down yet.

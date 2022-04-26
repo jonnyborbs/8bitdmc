@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/11/replacement-pedal-pads/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, body, photo]
 ---
 
 My new pedal pads finally came in. The clutch pedal pad has been torn as long as I’ve had the car, and it keeps falling off and going behind the pedals. Not comfy, attractive, or particularly safe. Well, that’s finally fixed.

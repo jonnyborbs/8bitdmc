@@ -7,6 +7,7 @@ permalink: /2011/04/restoration-log-8/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical]
 ---
 
 Another huge victory today. I finally got the rest of my electrical system parts in and spent the last two days completely removing the breakers, relays and fuse block from the electrical compartment. I had to pull each pair out of the block, label it and then record the colors, orientation and block # in a spreadsheet. Then, I cut off all the barrel terminals, re-crimped new ones and re-labeled the pairs. Then, soldered all of the terminal joints to the wires and re-labeled the pairs a third time. Once all the soldering was done, I reinstalled the pairs into the fuse block, replaced the remaining breakers and re-installed all the relays.

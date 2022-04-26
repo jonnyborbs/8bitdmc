@@ -7,6 +7,7 @@ permalink: /2011/05/restoration-log-9/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, window]
 ---
 
 A frustrating day working on the D. I have been taking apart the doors to install new outer window wipes and put bits of vinyl tubing around the lock and latch rods where they clank into each other. The net result is a much quieter car – no metal on metal clanging on every bump. Worth it, really – until I started installing the outer wipe on the passenger side (the last step.)

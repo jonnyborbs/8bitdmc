@@ -7,6 +7,7 @@ permalink: /2011/03/restoration-log-1/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair]
 ---
 
 Just got myself cleaned up after about 6 hours of working on the D. Today’s tasks included replacing the gas struts on the doors, hood, and louvers, as well as fully removing the alarm and restoring the factory wiring harness. I also replaced the foam side marker gaskets with new rubber ones and rebuilt the locking gas cap so it actually works now.

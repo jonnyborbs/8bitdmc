@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/06/introducing-8bitdmc-com/
 categories:
     - 'General Thoughts'
+tags: [photo]
 ---
 
 This is just going to be a place for me to post random thoughts, ideas, projects and photos of my 1981 DeLorean DMC-12, nicknamed ‘8Bit’.

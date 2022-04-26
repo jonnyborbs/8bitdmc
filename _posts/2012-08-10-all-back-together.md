@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/08/all-back-together/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, engine, electrical, photo]
 ---
 
 So after the drama last week, I got the motor all put back together and refilled with coolant. Pressure tested just fine. Hosed down the engine compartment, frame and body where the coolant had collected and decided to take another drive.

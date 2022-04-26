@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/10/just-a-quick-photo/
 categories:
     - 'General Thoughts'
+tags: [photo]
 ---
 
 Because I love the way the car looks just before dawn. The steel reflects just right, and the plethora of lights (20 of them, with both doors open) blazing just makes for a really good looking shot.

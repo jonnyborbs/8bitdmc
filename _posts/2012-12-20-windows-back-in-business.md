@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/12/windows-back-in-business/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, window, body, photo, video]
 ---
 
 An update to the window regulator situation. After determining that the motor in the drivers’ side door was beyond salvage, I ordered a new set from A1 Electric. They arrived in only two days!

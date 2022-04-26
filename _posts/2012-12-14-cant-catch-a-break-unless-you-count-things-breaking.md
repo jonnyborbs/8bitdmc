@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/12/cant-catch-a-break-unless-you-count-things-breaking/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, window, photo, body]
 ---
 
 So I’ve known since I got the car that the power window regulators were original and very failure prone. But I had been lucky, up until a few weeks ago when the driver’s side motor started clicking. This generally indicates imminent doom, but I decided to tempt fate and leave it be for now.

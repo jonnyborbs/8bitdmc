@@ -7,6 +7,7 @@ permalink: /2012/01/restoration-log-19/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical]
 ---
 
 A quick post-holiday update. Because of the hectic holiday schedule, I haven’t done a whole ton of work on the car lately. Besides, it’s been too nice here to have her all ripped apart! 66 degrees, every day, for all of January so far? That’s driving weather.  

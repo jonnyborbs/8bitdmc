@@ -7,6 +7,7 @@ permalink: /2011/07/restoration-log-13/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical, hvac, ac]
 ---
 
 Big update on this one. I got the alternator and taillight boards back and reinstalled successfully. The electrical system is back to normal and the taillights are working better than ever. I also put my new LED bulbs into the doors and engine/luggage compartments, and they look great! Now W want to do the rest of the interior lamps in led as well – dashboard, HVAC panel, dome lights… so much to do!  

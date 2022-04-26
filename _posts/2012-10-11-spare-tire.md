@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/10/spare-tire/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, photo]
 ---
 
 And no, not the one on my waist…

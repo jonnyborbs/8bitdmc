@@ -7,6 +7,7 @@ permalink: /2011/10/restoration-log-16/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical, audio, events]
 ---
 
 Another update. Some good stuff since the last one, namely the new stereo. I replaced the speakers all around and put in a new head unit, which required an entirely new center stack to accommodate a modern deck.

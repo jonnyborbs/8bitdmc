@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/06/new-radiator-and-cooling-system-update/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, cooling, hvac, photo]
 ---
 
 Been a while since my last post, but there are a couple of really big ones coming!

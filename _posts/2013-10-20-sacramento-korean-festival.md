@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/10/sacramento-korean-festival/
 categories:
     - 'General Thoughts'
+tags: [ncdmc, events, photo]
 ---
 
 Saturday, some of the local owners and I were invited to show our cars at the Sacramento Korean Festival. It’s not hard to get us to show up to any event, but one where you promise us free food? I’m surprised there weren’t more of us!

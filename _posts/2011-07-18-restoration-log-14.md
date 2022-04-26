@@ -7,6 +7,7 @@ permalink: /2011/07/restoration-log-14/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, fuel, cooling]
 ---
 
 Another update. Finally got the fuel filter tightened up, after two days of research and attempts. Turned out it was leaking at both ends; the banjo bolt wasn’t tight enough and the elbow fitting to the hard supply line from the tank was loose as well. Some petroleum-resistant teflon tape and a lot of back-breaking double wrenching got it all locked up tight. Not until after I was absolutely covered in gasoline though. Good times….

@@ -6,6 +6,7 @@ layout: post
 permalink: /2017/06/major-suspension-overhaul/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, suspension, photo]
 ---
 
 After several years of deferring what I knew was a very necessary job, Clint and I replaced the suspension in my car this weekend. I did the springs and steering a while ago, as the steering shaft had basically seized solid (and this had in turn caused the pinion gear in the rack to be worn smooth) and someone had tried to lower the car years ago by blowtorching the springs. They were all twisted and warped and just doing nothing to hold the car to the road. These changes made a huge difference at the time, but I realized I wasn’t quite done.

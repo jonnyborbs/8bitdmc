@@ -7,6 +7,7 @@ permalink: /2011/03/big-big-news/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair]
 ---
 
 OK, so, huge news. If you know me at all, you know that I’ve spent my entire life (literally since i knew how to want something) lusting after a DeLorean. I never actually thought in a million years that i’d get one, but this was a big month for me.

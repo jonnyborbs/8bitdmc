@@ -7,6 +7,7 @@ permalink: /2011/04/restoration-log-7/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical, suspension]
 ---
 
 Another week of DeLorean work. Sorry for the delayed updates, but I’ve been putting in so many hours on this thing that by the time I’m done in the evening it’s just time for bed. Anyway, here’s the new updates:

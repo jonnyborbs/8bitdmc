@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/06/headliners-recovered/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, body, photo]
 ---
 
 Just a quick picture of my slick new headliners. Clint recovered them with nice new fabric and you can see the details for the first time since I’ve had the car. Can’t wait to put them in.

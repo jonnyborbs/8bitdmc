@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/07/a-very-important-package/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, photo, transmission]
 ---
 
 Just arrived!! Hopefully this is everything I need to get back on the road this weekend. Big thanks to Josh at DPI for sourcing this for me. Apparently it wasn’t easy and this had to come all the way from Europe, since there wasn’t a single one available in the US.

@@ -6,6 +6,7 @@ layout: post
 permalink: /2014/02/the-fuel-pump-saga/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, fuel, engine, photo, video]
 ---
 
 So back in June I posted about my install of the brand new and upgraded fuel pump and level sender combo unit from DMCH. This was a significant (and expensive) upgrade to the car, as it eliminates the complicated pickup baffle system and failure/inaccuracy prone level sender to power the fuel gauge. But, as it turned out, this pump was not without design problems of its own. Many users (including local owner Ryan) reported that the pump was unable to hold rest pressure and was introducing hot start issues where none previously existed. While I was not seeing this behavior myself, I did notice that the car seemed to suffer from sputtering and loss of power under load when the tank was low – 1/4 full or less. The symptoms were the same as those of a collapsed pickup hose in the OEM configuration – one of the exact problems I was trying to eliminate by upgrading the pump.

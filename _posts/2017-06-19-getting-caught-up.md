@@ -6,6 +6,7 @@ layout: post
 permalink: /2017/06/getting-caught-up/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, body, events, ncdmc, photo, electrical]
 ---
 
 Wow, has it really been almost three years since my last post? I didn’t realize how much time had gone by. Between work and all the other stuff going on, I just haven’t thought to keep this site up to date with everything I’ve done.

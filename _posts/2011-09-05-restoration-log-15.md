@@ -7,6 +7,7 @@ permalink: /2011/09/restoration-log-15/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical, body, hvac, ac]
 ---
 
 Been a while since the last update. Between our trip to NYC, camping, and Colleen getting sick, I haven’t had much time to post. But that doesn’t mean I haven’t had time to work on the car 🙂

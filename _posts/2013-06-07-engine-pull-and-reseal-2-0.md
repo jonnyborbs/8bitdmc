@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/06/engine-pull-and-reseal-2-0/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, engine, transmission, electrical, photo]
 ---
 
 So about a year ago, Clint, David and I removed my motor to do some preventative maintenance and a full re-seal. At the time, we completely rebuilt my transmission, installed a new clutch and hydraulics, and replaced virtually every seal on the motor. Most of those jobs went great. Some of them, particularly the re-seal… not so much. The drips have been bothering me so we decided to tackle the job again.

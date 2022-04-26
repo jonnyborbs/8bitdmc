@@ -6,6 +6,7 @@ layout: post
 permalink: /2014/07/fuel-tank-closing-plate/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, body, photo]
 ---
 
 No, I haven’t forgotten the site. It’s just that the car has been running perfectly since the fuel pump was repaired, and due to my crazy work/travel schedule I haven’t done much driving this summer.

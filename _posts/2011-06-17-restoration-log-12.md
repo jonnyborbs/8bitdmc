@@ -7,6 +7,7 @@ permalink: /2011/06/restoration-log-12/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical]
 ---
 
 Just a quick update: the car is out of commission and has been parked for about a week. A loose connection caused the new alternator to burn up (or perhaps vice-versa, I really have no idea) – but either way, the car’s dead in the water while the alternator is being rebuilt (or replaced if necessary) in Texas. On the up side, since she’s not going anywhere anyway, I am also having the taillight boards refurbished so I won’t have any more bulbs out.

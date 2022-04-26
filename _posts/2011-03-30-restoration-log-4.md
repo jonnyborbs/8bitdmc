@@ -7,6 +7,7 @@ permalink: /2011/03/restoration-log-4/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, events]
 ---
 
 I’m heading to meet another DeLorean owner in the area at 6 tonight. It will be fun to get a perspective on mine based on what he’s done and seen already. It’s not like dealing with a Mustang or a common classic where everyone knows what it should “be” like – there are a pretty small group of people who have any idea.

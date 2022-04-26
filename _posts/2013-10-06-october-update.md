@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/10/october-update/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, cooling, engine, photo]
 ---
 
 We’ve been so busy this last few weeks that it’s been a pretty slow DeLorean season.

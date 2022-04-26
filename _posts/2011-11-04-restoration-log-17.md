@@ -7,6 +7,7 @@ permalink: /2011/11/restoration-log-17/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, electrical, events]
 ---
 
 The onset of winter and other responsibilities have been slowing me up the last few weeks, but that didn’t stop me from getting a bunch more work done.  

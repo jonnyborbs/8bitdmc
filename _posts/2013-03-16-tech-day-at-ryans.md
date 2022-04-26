@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/03/tech-day-at-ryans/
 categories:
     - 'General Thoughts'
+tags: [events, ncdmc, photo]
 ---
 
 Just a quick post about a recent tech day at new owner Ryan’s place in Elk Grove. We helped him adjust his torsion bars and bolt down his roof box before enjoying some killer ribs and a visit from a neighborhood tortoise.

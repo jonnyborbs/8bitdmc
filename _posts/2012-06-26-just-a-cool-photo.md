@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/06/just-a-cool-photo/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, photo]
 ---
 
 Taken a few weeks ago on First street in Benicia. Wish I’d had a real camera instead of just my phone!

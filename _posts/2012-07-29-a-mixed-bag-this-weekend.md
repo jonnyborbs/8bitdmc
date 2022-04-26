@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/07/a-mixed-bag-this-weekend/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, engine, transmission, body, photo]
 ---
 
 Clint came by Saturday morning as promised to get the clutch and transmission installed at last.

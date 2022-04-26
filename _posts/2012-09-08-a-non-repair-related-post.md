@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/09/a-non-repair-related-post/
 categories:
     - 'General Thoughts'
+tags: [photo]
 ---
 
 I figure once in a while I have to stop tinkering and start driving. The car is running great right now so I got up early and took a little drive. Got a couple of nice photos while I was out. Enjoy!

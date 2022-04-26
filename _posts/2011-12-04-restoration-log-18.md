@@ -7,6 +7,7 @@ permalink: /2011/12/restoration-log-18/
 categories:
     - 'General Thoughts'
     - 'Legacy Restoration Log'
+tags: [restoration, repair, body, brakes]
 ---
 
 Another update. A lot of work this last couple of weeks!

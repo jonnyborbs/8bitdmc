@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/10/holiday-time-starting-early/
 categories:
     - 'General Thoughts'
+tags: [photo, bttf]
 ---
 
 Today I did something I’ve never done before, and I have to say I never thought I would. I got up early to be at the Hallmark store when it opened to get Christmas tree ornaments.

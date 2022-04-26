@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/06/improved-fuel-pumpsender-combo/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, fuel, photo]
 ---
 
 One of the most head-scratching designs in the DeLorean is the fuel delivery system. The pump is submerged in the fuel tank, inside a rubber boot. There is a complicated pre-filter, pickup hose and baffle system to get fuel from the bottom of the tank into the pump and a separate level sending unit for the fuel gauge. There are a lot of disadvantages to this design, namely:

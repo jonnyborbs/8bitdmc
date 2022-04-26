@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/10/ncdmc-marin-cruise-2012/
 categories:
     - 'General Thoughts'
+tags: [events, ncdmc, drives, photo]
 ---
 
 So today a bunch of the guys in the NCDMC met up for a sweet drive through the redwood forests and up the California coast. It was everything I always imagined owning a DeLorean would one day be. A great drive that was well planned and scenic and a really great group of people… not much more to ask for!

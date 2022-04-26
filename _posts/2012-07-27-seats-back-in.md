@@ -6,6 +6,7 @@ layout: post
 permalink: /2012/07/seats-back-in/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, body, photo]
 ---
 
 Today I took the seat tracks off the seats, cleaned and lubed them, and added some more washers to help them clear the carpet when sliding. The seats move nice and freely now – they had been binding on the carpet since I installed the dynamat under it.

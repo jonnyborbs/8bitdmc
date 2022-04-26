@@ -6,6 +6,7 @@ layout: post
 permalink: /2013/06/success-at-last/
 categories:
     - 'General Thoughts'
+tags: [restoration, repair, engine, photo]
 ---
 
 Last night David, Ryan and Clint came over and we took another crack at sealing the oil pan. This time, instead of the DMC cork gasket, we used a hard fiber one from DPI. It cost a truly fantastic amount, but if you ask me you couldn’t put a price on just finally having this job done correctly.
