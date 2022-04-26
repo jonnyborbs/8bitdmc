@@ -34,18 +34,20 @@ url: 'https://www.8bitdmc.com'
 github:
   username: jonnyborbs            # change to your github username
 
-twitter:
-  username: jonnyborbs            # change to your twitter username
+# twitter:
+#   username:             # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jon
-  # email: jon@8bitdmc.com             # change to your email address
+  email: jon@8bitdmc.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/jonnyborbs      # change to your twitter homepage
+    # - https://twitter.com/username     # change to your twitter homepage
+    - https://mastodon.social/web/@jonnyborbs
     - https://github.com/jonnyborbs       # change to your github homepage
+    - http://polywork.com/jschulman
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
