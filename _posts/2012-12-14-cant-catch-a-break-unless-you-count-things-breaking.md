@@ -1,10 +1,8 @@
 ---
-id: 213
 title: 'Can&#8217;t catch a break.. unless you count things breaking'
 date: '2012-12-14T18:31:46-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=213'
 permalink: /2012/12/cant-catch-a-break-unless-you-count-things-breaking/
 categories:
     - 'General Thoughts'

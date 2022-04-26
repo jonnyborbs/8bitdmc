@@ -1,10 +1,8 @@
 ---
-id: 456
 title: 'The Fuel Pump Saga'
 date: '2014-02-07T04:08:03-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=456'
 permalink: /2014/02/the-fuel-pump-saga/
 categories:
     - 'General Thoughts'

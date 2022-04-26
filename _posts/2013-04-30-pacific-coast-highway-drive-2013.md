@@ -1,10 +1,8 @@
 ---
-id: 353
 title: 'Pacific Coast Highway Drive 2013'
 date: '2013-04-30T16:44:51-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=353'
 permalink: /2013/04/pacific-coast-highway-drive-2013/
 categories:
     - 'General Thoughts'

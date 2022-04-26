@@ -1,10 +1,8 @@
 ---
-id: 398
 title: 'Improved Fuel Pump/Sender Combo'
 date: '2013-06-07T19:34:38-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=398'
 permalink: /2013/06/improved-fuel-pumpsender-combo/
 categories:
     - 'General Thoughts'

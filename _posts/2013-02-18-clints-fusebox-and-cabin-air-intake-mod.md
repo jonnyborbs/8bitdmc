@@ -1,10 +1,8 @@
 ---
-id: 259
 title: 'Clint&#8217;s fusebox and cabin air intake mod'
 date: '2013-02-18T15:54:07-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=259'
 permalink: /2013/02/clints-fusebox-and-cabin-air-intake-mod/
 categories:
     - 'General Thoughts'

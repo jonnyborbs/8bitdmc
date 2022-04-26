@@ -1,10 +1,8 @@
 ---
-id: 450
 title: 'Sacramento Korean Festival'
 date: '2013-10-20T09:51:21-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=450'
 permalink: /2013/10/sacramento-korean-festival/
 categories:
     - 'General Thoughts'

@@ -1,10 +1,8 @@
 ---
-id: 201
 title: 'Fuel problems'
 date: '2012-11-30T21:08:47-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=201'
 permalink: /2012/11/fuel-problems/
 categories:
      - 'General Thoughts'

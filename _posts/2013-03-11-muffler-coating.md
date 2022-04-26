@@ -1,10 +1,8 @@
 ---
-id: 276
 title: 'Muffler coating'
 date: '2013-03-11T21:21:30-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=276'
 permalink: /2013/03/muffler-coating/
 categories:
     - 'General Thoughts'

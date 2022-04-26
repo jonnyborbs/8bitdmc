@@ -1,10 +1,8 @@
 ---
-id: 240
 title: 'Another tech day'
 date: '2013-02-11T20:43:39-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=240'
 permalink: /2013/02/another-tech-day/
 categories:
     - 'General Thoughts'

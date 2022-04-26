@@ -1,10 +1,8 @@
 ---
-id: 307
 title: 'Tech Day at Ryan&#8217;s'
 date: '2013-03-16T15:40:53-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=307'
 permalink: /2013/03/tech-day-at-ryans/
 categories:
     - 'General Thoughts'

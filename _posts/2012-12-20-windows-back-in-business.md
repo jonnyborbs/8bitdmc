@@ -1,10 +1,8 @@
 ---
-id: 221
 title: 'Windows back in business'
 date: '2012-12-20T19:01:04-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=221'
 permalink: /2012/12/windows-back-in-business/
 categories:
     - 'General Thoughts'

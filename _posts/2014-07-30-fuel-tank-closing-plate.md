@@ -1,10 +1,8 @@
 ---
-id: 489
 title: 'Fuel tank closing plate'
 date: '2014-07-30T19:11:11-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=489'
 permalink: /2014/07/fuel-tank-closing-plate/
 categories:
     - 'General Thoughts'

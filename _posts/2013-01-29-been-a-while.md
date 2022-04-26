@@ -1,10 +1,8 @@
 ---
-id: 236
 title: 'Been a while!'
 date: '2013-01-29T19:14:46-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=236'
 permalink: /2013/01/been-a-while/
 categories:
     - 'General Thoughts'

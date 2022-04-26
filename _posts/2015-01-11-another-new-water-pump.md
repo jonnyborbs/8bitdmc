@@ -1,10 +1,8 @@
 ---
-id: 553
 title: 'Another new water pump'
 date: '2015-01-11T10:44:08-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=553'
 permalink: /2015/01/another-new-water-pump/
 categories:
     - 'General Thoughts'

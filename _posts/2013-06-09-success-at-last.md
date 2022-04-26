@@ -1,10 +1,8 @@
 ---
-id: 427
 title: 'Success at last!'
 date: '2013-06-09T15:00:04-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=427'
 permalink: /2013/06/success-at-last/
 categories:
     - 'General Thoughts'

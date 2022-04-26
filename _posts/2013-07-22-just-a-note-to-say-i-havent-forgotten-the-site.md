@@ -1,10 +1,8 @@
 ---
-id: 433
 title: 'Just a note to say I haven&#8217;t forgotten the site..'
 date: '2013-07-22T20:39:11-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=433'
 permalink: /2013/07/just-a-note-to-say-i-havent-forgotten-the-site/
 categories:
     - 'General Thoughts'

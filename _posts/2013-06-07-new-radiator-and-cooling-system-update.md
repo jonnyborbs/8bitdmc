@@ -1,10 +1,8 @@
 ---
-id: 362
 title: 'New Radiator and Cooling System Update'
 date: '2013-06-07T18:30:21-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=362'
 permalink: /2013/06/new-radiator-and-cooling-system-update/
 categories:
     - 'General Thoughts'

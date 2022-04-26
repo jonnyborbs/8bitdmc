@@ -1,10 +1,8 @@
 ---
-id: 503
 title: 'NCDMC Sonoma Coast Drive, Nov 2014'
 date: '2014-11-03T22:01:23-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=503'
 permalink: /2014/11/ncdmc-sonoma-coast-drive-nov-2014/
 categories:
     - 'General Thoughts'

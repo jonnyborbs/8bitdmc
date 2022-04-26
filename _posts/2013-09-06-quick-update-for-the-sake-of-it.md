@@ -1,10 +1,8 @@
 ---
-id: 435
 title: 'Quick update for the sake of it'
 date: '2013-09-06T08:44:40-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=435'
 permalink: /2013/09/quick-update-for-the-sake-of-it/
 categories:
     - 'General Thoughts'

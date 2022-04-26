@@ -1,10 +1,8 @@
 ---
-id: 284
 title: 'Subwoofer install'
 date: '2013-03-15T20:24:07-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=284'
 permalink: /2013/03/subwoofer-install/
 categories:
     - 'General Thoughts'

@@ -1,10 +1,8 @@
 ---
-id: 557
 title: 'Time for an alignment'
 date: '2015-01-22T17:14:33-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=557'
 permalink: /2015/01/time-for-an-alignment/
 categories:
     - 'General Thoughts'

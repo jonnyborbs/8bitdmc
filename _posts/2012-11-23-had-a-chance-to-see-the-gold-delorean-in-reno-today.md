@@ -1,10 +1,8 @@
 ---
-id: 189
 title: 'Had a chance to see the gold DeLorean in Reno today!'
 date: '2012-11-23T17:51:46-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=189'
 permalink: /2012/11/had-a-chance-to-see-the-gold-delorean-in-reno-today/
 categories:
     - 'General Thoughts'

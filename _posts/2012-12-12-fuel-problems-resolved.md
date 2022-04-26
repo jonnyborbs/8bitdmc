@@ -1,10 +1,8 @@
 ---
-id: 204
 title: 'Fuel problems resolved!'
 date: '2012-12-12T20:00:29-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=204'
 permalink: /2012/12/fuel-problems-resolved/
 categories:
     - 'General Thoughts'

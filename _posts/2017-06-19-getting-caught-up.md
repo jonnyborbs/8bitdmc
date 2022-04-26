@@ -1,10 +1,8 @@
 ---
-id: 582
 title: 'Getting caught up'
 date: '2017-06-19T19:33:20-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=582'
 permalink: /2017/06/getting-caught-up/
 categories:
     - 'General Thoughts'

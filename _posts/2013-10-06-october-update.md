@@ -1,10 +1,8 @@
 ---
-id: 440
 title: 'October update'
 date: '2013-10-06T18:50:10-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=440'
 permalink: /2013/10/october-update/
 categories:
     - 'General Thoughts'

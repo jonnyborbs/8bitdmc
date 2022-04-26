@@ -1,10 +1,8 @@
 ---
-id: 381
 title: 'Engine Pull and Reseal 2.0'
 date: '2013-06-07T18:57:06-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=381'
 permalink: /2013/06/engine-pull-and-reseal-2-0/
 categories:
     - 'General Thoughts'
