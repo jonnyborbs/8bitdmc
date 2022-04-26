@@ -1,10 +1,8 @@
 ---
-id: 53
 title: 'Slow progress'
 date: '2012-07-06T16:53:05-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=53'
 permalink: /2012/07/slow-progress/
 categories:
     - 'General Thoughts'

@@ -1,10 +1,8 @@
 ---
-id: 29
 title: 'Off the road for a while'
 date: '2012-06-25T10:36:22-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=29'
 permalink: /2012/06/off-the-road-for-a-while/
 categories:
     - 'General Thoughts'

@@ -1,10 +1,8 @@
 ---
-id: 181
 title: 'Replacement pedal pads'
 date: '2012-11-15T17:20:02-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=181'
 permalink: /2012/11/replacement-pedal-pads/
 categories:
     - 'General Thoughts'

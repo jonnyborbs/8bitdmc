@@ -1,10 +1,8 @@
 ---
-id: 84
 title: 'Seats back in'
 date: '2012-07-27T20:07:52-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=84'
 permalink: /2012/07/seats-back-in/
 categories:
     - 'General Thoughts'

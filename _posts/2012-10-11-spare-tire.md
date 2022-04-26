@@ -1,10 +1,8 @@
 ---
-id: 143
 title: 'Spare tire'
 date: '2012-10-11T20:44:47-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=143'
 permalink: /2012/10/spare-tire/
 categories:
     - 'General Thoughts'

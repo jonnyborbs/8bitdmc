@@ -1,10 +1,8 @@
 ---
-id: 647
 title: 'Big, Big News'
 date: '2011-03-11T11:32:00-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=647'
 permalink: /2011/03/big-big-news/
 categories:
     - 'General Thoughts'

@@ -1,10 +1,8 @@
 ---
-id: 79
 title: 'A very important package'
 date: '2012-07-24T21:49:51-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=79'
 permalink: /2012/07/a-very-important-package/
 categories:
     - 'General Thoughts'

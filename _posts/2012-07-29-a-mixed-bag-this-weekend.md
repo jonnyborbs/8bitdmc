@@ -1,10 +1,8 @@
 ---
-id: 87
 title: 'A mixed bag this weekend'
 date: '2012-07-29T18:15:13-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=87'
 permalink: /2012/07/a-mixed-bag-this-weekend/
 categories:
     - 'General Thoughts'

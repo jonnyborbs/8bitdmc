@@ -1,10 +1,8 @@
 ---
-id: 12
 title: 'Introducing 8BitDMC.com'
 date: '2012-06-21T20:42:11-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=12'
 permalink: /2012/06/introducing-8bitdmc-com/
 categories:
     - 'General Thoughts'

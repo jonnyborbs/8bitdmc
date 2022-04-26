@@ -1,10 +1,8 @@
 ---
-id: 662
 title: 'Restoration, Log 7'
 date: '2011-04-18T07:28:00-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=662'
 permalink: /2011/04/restoration-log-7/
 categories:
     - 'General Thoughts'

@@ -1,10 +1,8 @@
 ---
-id: 115
 title: 'Quick photo update'
 date: '2012-08-27T20:01:35-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=115'
 permalink: /2012/08/quick-photo-update/
 categories:
     - 'General Thoughts'

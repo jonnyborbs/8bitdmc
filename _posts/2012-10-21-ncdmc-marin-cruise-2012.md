@@ -1,10 +1,8 @@
 ---
-id: 150
 title: 'NCDMC Marin Cruise 2012'
 date: '2012-10-21T18:02:01-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=150'
 permalink: /2012/10/ncdmc-marin-cruise-2012/
 categories:
     - 'General Thoughts'

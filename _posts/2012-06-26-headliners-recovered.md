@@ -1,10 +1,8 @@
 ---
-id: 33
 title: 'Headliners recovered'
 date: '2012-06-26T22:01:54-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=33'
 permalink: /2012/06/headliners-recovered/
 categories:
     - 'General Thoughts'

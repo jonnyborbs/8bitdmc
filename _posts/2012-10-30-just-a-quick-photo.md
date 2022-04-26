@@ -1,10 +1,8 @@
 ---
-id: 178
 title: 'Just a quick photo'
 date: '2012-10-30T09:30:38-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=178'
 permalink: /2012/10/just-a-quick-photo/
 categories:
     - 'General Thoughts'

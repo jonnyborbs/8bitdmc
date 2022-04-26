@@ -1,10 +1,8 @@
 ---
-id: 118
 title: 'New headliners!'
 date: '2012-09-03T18:29:38-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=118'
 permalink: /2012/09/new-headliners/
 categories:
     - 'General Thoughts'

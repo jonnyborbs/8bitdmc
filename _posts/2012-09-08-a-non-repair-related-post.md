@@ -1,10 +1,8 @@
 ---
-id: 124
 title: 'A non-repair related post!'
 date: '2012-09-08T13:16:48-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=124'
 permalink: /2012/09/a-non-repair-related-post/
 categories:
     - 'General Thoughts'

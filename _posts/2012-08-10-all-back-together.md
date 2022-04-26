@@ -1,10 +1,8 @@
 ---
-id: 100
 title: 'All back together!'
 date: '2012-08-10T21:24:59-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=100'
 permalink: /2012/08/all-back-together/
 categories:
     - 'General Thoughts'

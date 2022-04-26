@@ -1,10 +1,8 @@
 ---
-id: 687
 title: 'Restoration, Log 19'
 date: '2012-01-14T09:05:00-08:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=687'
 permalink: /2012/01/restoration-log-19/
 categories:
     - 'General Thoughts'

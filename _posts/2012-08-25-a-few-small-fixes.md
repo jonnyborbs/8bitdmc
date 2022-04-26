@@ -1,10 +1,8 @@
 ---
-id: 108
 title: 'A few small fixes'
 date: '2012-08-25T18:44:59-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=108'
 permalink: /2012/08/a-few-small-fixes/
 categories:
     - 'General Thoughts'

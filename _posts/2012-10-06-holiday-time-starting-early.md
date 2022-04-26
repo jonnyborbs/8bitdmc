@@ -1,10 +1,8 @@
 ---
-id: 140
 title: 'Holiday time starting early'
 date: '2012-10-06T09:08:21-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=140'
 permalink: /2012/10/holiday-time-starting-early/
 categories:
     - 'General Thoughts'

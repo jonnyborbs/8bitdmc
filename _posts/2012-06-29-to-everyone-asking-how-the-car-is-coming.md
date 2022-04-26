@@ -1,10 +1,8 @@
 ---
-id: 41
 title: 'To everyone asking how the car is coming'
 date: '2012-06-29T16:10:00-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=41'
 permalink: /2012/06/to-everyone-asking-how-the-car-is-coming/
 categories:
     - 'General Thoughts'

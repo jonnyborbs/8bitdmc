@@ -1,10 +1,8 @@
 ---
-id: 46
 title: '4th of July progress'
 date: '2012-07-04T13:09:29-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=46'
 permalink: /2012/07/4th-of-july-progress/
 categories:
     - 'General Thoughts'

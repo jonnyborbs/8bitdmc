@@ -1,10 +1,8 @@
 ---
-id: 137
 title: 'Davis cruise-in'
 date: '2012-09-18T21:23:57-07:00'
 author: admin
 layout: post
-guid: 'http://www.8bitdmc.com/?p=137'
 permalink: /2012/09/davis-cruise-in/
 categories:
     - 'General Thoughts'
